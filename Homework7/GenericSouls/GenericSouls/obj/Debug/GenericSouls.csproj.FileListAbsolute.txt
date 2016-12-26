@@ -1,0 +1,12 @@
+D:\Homework\Homework6\GenericSouls\GenericSouls\bin\Debug\GenericSouls.exe.config
+D:\Homework\Homework6\GenericSouls\GenericSouls\bin\Debug\GenericSouls.exe
+D:\Homework\Homework6\GenericSouls\GenericSouls\bin\Debug\GenericSouls.pdb
+D:\Homework\Homework6\GenericSouls\GenericSouls\obj\Debug\GenericSouls.csprojResolveAssemblyReference.cache
+D:\Homework\Homework6\GenericSouls\GenericSouls\obj\Debug\GenericSouls.exe
+D:\Homework\Homework6\GenericSouls\GenericSouls\obj\Debug\GenericSouls.pdb
+D:\Homework\Homework7\GenericSouls\GenericSouls\bin\Debug\GenericSouls.exe.config
+D:\Homework\Homework7\GenericSouls\GenericSouls\obj\Debug\GenericSouls.exe
+D:\Homework\Homework7\GenericSouls\GenericSouls\obj\Debug\GenericSouls.pdb
+D:\Homework\Homework7\GenericSouls\GenericSouls\bin\Debug\GenericSouls.exe
+D:\Homework\Homework7\GenericSouls\GenericSouls\bin\Debug\GenericSouls.pdb
+D:\Homework\Homework7\GenericSouls\GenericSouls\obj\Debug\GenericSouls.csprojResolveAssemblyReference.cache
