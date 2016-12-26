@@ -1,0 +1,15 @@
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\HomeworksHome.exe.config
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\HomeworksHome.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\HomeworksHome.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Debug\HomeworksHome.csprojResolveAssemblyReference.cache
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Debug\HomeworksHome.Form1.resources
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Debug\HomeworksHome.Properties.Resources.resources
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Debug\HomeworksHome.csproj.GenerateResource.Cache
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Debug\HomeworksHome.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Debug\HomeworksHome.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\GenericSouls.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Homework8.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Homework9.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\GenericSouls.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Homework8.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Homework9.pdb
