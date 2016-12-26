@@ -1,0 +1,17 @@
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\HomeworksHome.exe.config
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\HomeworksHome.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\HomeworksHome.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\Common.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\GenericSouls.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\Homework8.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\Homework9.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\GenericSouls.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\Homework8.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\Homework9.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Release\Common.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Release\HomeworksHome.csprojResolveAssemblyReference.cache
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Release\HomeworksHome.Form1.resources
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Release\HomeworksHome.Properties.Resources.resources
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Release\HomeworksHome.csproj.GenerateResource.Cache
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Release\HomeworksHome.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\obj\Release\HomeworksHome.pdb
