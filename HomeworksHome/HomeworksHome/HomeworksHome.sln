@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework8", "..\..\Homework
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSouls", "..\..\Homework7\GenericSouls\GenericSouls\GenericSouls.csproj", "{11A4D65A-CAB3-45C5-92B9-6A929E97E0CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{17471AE6-2BD9-4EDA-99B3-E69AED1DB5CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{11A4D65A-CAB3-45C5-92B9-6A929E97E0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A4D65A-CAB3-45C5-92B9-6A929E97E0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11A4D65A-CAB3-45C5-92B9-6A929E97E0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17471AE6-2BD9-4EDA-99B3-E69AED1DB5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17471AE6-2BD9-4EDA-99B3-E69AED1DB5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17471AE6-2BD9-4EDA-99B3-E69AED1DB5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17471AE6-2BD9-4EDA-99B3-E69AED1DB5CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -95,6 +95,10 @@
       <Project>{a46615da-ccf6-4d74-8000-39b093f42660}</Project>
       <Name>Homework9</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{17471ae6-2bd9-4eda-99b3-e69aed1db5ce}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

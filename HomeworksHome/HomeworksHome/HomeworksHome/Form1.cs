@@ -117,7 +117,9 @@ namespace HomeworksHome
             }
             catch (Exception )
             {
-                MessageBox.Show("Buffer is empty");                
+                MessageBox.Show("Buffer is empty");
+                label1.Text = "empty";
+                return;
             }
         }
 

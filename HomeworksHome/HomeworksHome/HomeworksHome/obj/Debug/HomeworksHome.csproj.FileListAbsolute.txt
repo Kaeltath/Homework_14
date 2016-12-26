@@ -13,3 +13,5 @@ D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Homework9.exe
 D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\GenericSouls.pdb
 D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Homework8.pdb
 D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Homework9.pdb
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Common.exe
+D:\Homework\HomeworksHome\HomeworksHome\HomeworksHome\bin\Debug\Common.pdb

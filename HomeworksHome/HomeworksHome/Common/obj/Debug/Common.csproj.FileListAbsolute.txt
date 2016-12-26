@@ -1,0 +1,5 @@
+D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Debug\Common.exe.config
+D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Debug\Common.exe
+D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Debug\Common.pdb
+D:\Homework\HomeworksHome\HomeworksHome\Common\obj\Debug\Common.exe
+D:\Homework\HomeworksHome\HomeworksHome\Common\obj\Debug\Common.pdb
