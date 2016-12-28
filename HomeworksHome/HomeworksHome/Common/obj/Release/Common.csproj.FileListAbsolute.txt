@@ -1,6 +1,5 @@
-D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Release\Common.exe.config
-D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Release\Common.exe
 D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Release\Common.pdb
-D:\Homework\HomeworksHome\HomeworksHome\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
-D:\Homework\HomeworksHome\HomeworksHome\Common\obj\Release\Common.exe
 D:\Homework\HomeworksHome\HomeworksHome\Common\obj\Release\Common.pdb
+D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Release\Common.dll.config
+D:\Homework\HomeworksHome\HomeworksHome\Common\bin\Release\Common.dll
+D:\Homework\HomeworksHome\HomeworksHome\Common\obj\Release\Common.dll
